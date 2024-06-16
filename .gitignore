@@ -1,4 +1,6 @@
 .idea
 .lightning_studio
 .vscode
+.viminfo
 gpt2-supervised-summarize-checkpoint
+rm_model
