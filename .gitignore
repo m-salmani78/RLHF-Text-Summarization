@@ -4,3 +4,4 @@
 .viminfo
 gpt2-supervised-summarize-checkpoint
 rm_model
+rm_checkpoint
