@@ -5,7 +5,6 @@ This notebook is designed for the **CA 4 assignment on Reinforcement Learning fr
 ## Table of Contents
 
 1. [Overview](#overview)
-2. [Assignment Instructions](#assignment-instructions)
 3. [Structure of the Notebook](#structure-of-the-notebook)
 4. [Resources](#resources)
 5. [Academic Honesty and Submission Guidelines](#academic-honesty-and-submission-guidelines)
@@ -15,15 +14,6 @@ This notebook is designed for the **CA 4 assignment on Reinforcement Learning fr
 ### Overview
 
 Reinforcement Learning from Human Feedback (RLHF) is a significant method in the development of language models, enabling systems to align more closely with human preferences. This notebook includes tasks that explore the theory and application of RLHF, providing practical coding exercises and written responses to reinforce your knowledge.
-
----
-
-### Assignment Instructions
-
-- **Due Date**: June 14, 2024
-- **Submission**: Submit the notebook via the [eLearn platform](https://elearn.ut.ac.ir/) with the filename format `CA4_LASTNAME_STUDENTID.ipynb`.
-- **Coding Tasks**: Complete each code cell labeled "WRITE YOUR CODE HERE."
-- **Written Responses**: Provide answers by replacing placeholder text ("Write your answer here...").
 
 ---
 
